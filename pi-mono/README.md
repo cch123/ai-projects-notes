@@ -12,11 +12,12 @@
 
 - [architecture.md](./architecture.md)——整体架构分析：分层、包依赖、关键流程、入门阅读路径
 - [notes/pi-ai.md](./notes/pi-ai.md)——`pi-ai` 深入：类型系统、provider 抽象、跨 provider 迁移、缓存/思考/工具的实现细节
+- [notes/pi-agent-core.md](./notes/pi-agent-core.md)——`pi-agent-core` 深入：外层/内层循环、事件系统、工具三阶段执行、steering/follow-up 队列
 
 ## 后续计划
 
 - [x] pi-ai：LLM 统一层的设计与各 provider 适配实现
-- [ ] pi-agent-core：Agent 循环、事件流、工具执行
+- [x] pi-agent-core：Agent 循环、事件流、工具执行
 - [ ] pi-tui：终端微分渲染原理
 - [ ] pi-coding-agent：
   - [ ] 4 种运行模式的实现差异
