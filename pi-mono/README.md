@@ -16,13 +16,16 @@
 - [notes/pi-tui.md](./notes/pi-tui.md)——`pi-tui` 深入：行级差分渲染、Synchronized Update、Unicode 宽度、Kitty 键盘协议、13 个内置组件
 - [notes/pi-coding-agent-part1.md](./notes/pi-coding-agent-part1.md)——`pi-coding-agent` Part 1：主入口、4 种运行模式、6 个核心工具
 - [notes/pi-coding-agent-part2.md](./notes/pi-coding-agent-part2.md)——`pi-coding-agent` Part 2：扩展系统、提示模板、Skills
+- [notes/pi-coding-agent-part3.md](./notes/pi-coding-agent-part3.md)——`pi-coding-agent` Part 3：会话管理（JSONL 仅追加、树结构、压缩）+ Interactive UI + 主题
 
-## 后续计划
+## 进度
 
 - [x] pi-ai：LLM 统一层的设计与各 provider 适配实现
 - [x] pi-agent-core：Agent 循环、事件流、工具执行
 - [x] pi-tui：终端微分渲染原理
-- [ ] pi-coding-agent：
+- [x] pi-coding-agent：
   - [x] Part 1：4 种运行模式、6 个核心工具
   - [x] Part 2：扩展系统（Extensions / Prompt Templates / Skills）
-  - [ ] Part 3：会话管理（持久化、分支、压缩）+ Interactive 模式 UI
+  - [x] Part 3：会话管理（持久化、分支、压缩）+ Interactive 模式 UI
+
+**pi-mono 系列完结** 🎉
