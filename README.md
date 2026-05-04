@@ -7,6 +7,7 @@ AI 相关开源项目的源码阅读与学习笔记。
 | 项目 | 类型 | 笔记目录 |
 |------|------|---------|
 | [pi-mono](./pi-mono) | AI 编程 Agent 框架（TypeScript monorepo，作者 Mario Zechner） | [./pi-mono](./pi-mono) |
+| [warp](./warp) | Warp Skills 工作流与流程图笔记 | [./warp](./warp) |
 
 ## 组织方式
 
